@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @majlando
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ... horse / cat
-- ⚡ Fun fact: ...
+- 👀 I like to code, game, workout, eat and sleep.
+- 🌱 I’m currently learning Python, TypeScript, C, C#, Java
+- 💞️ I’m looking to collaborate on fun projects
+- 📫 How to reach me: You can't, I'm incognito
+- 😄 Pronouns: helicopter/apache
+- ⚡ Fun fact: I know what you are thinking - you're thinking of a pink elephant right now.
 
 <!---
 majlando/majlando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
