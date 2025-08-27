@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @majlando
-- 👀 I like to code, game, workout, eat and sleep.
+- 👀 I like to code, game, work out, eat and sleep.
 - 🌱 I’m currently learning Python, TypeScript, C, C#, Java
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me: You can't, I'm incognito
